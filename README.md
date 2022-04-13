@@ -6,4 +6,8 @@ Relatório Parcial PIBIC 2021-2022, "Segmentaçao automática 3D de vasos pulmon
 
 
 - Resultado parciais obtidos:
-![Resultado parcial obtido](https://github.com/ferreiraluana/unet-keras/blob/main/plot.png)
+![Predict from U-net](https://github.com/ferreiraluana/unet-keras/blob/main/plot.png)
+
+![Segmentation](https://github.com/ferreiraluana/unet-keras/blob/main/result-lung-segmentation.png)
+
+
